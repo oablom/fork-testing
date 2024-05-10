@@ -5,7 +5,7 @@ const About = () => {
     <>
       {" "}
       <div className="story-container w-[50vw] font-bold">
-        <h2>Historien om Hakim Online</h2>
+        <h2>Historien om Hakim Onlines fantastiska resa</h2>
         <p>
           Hakim hade alltid drömt om att driva en egen livsmedelsbutik.
           Tillsammans med sin bror hade han förverkligat den drömmen och öppnat
